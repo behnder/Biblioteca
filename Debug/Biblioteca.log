@@ -1,0 +1,102 @@
+﻿  Ejemplar.cpp
+E:\Cprojects\Biblioteca\Libro.h(16,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(16): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(23,35): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(23,24): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(23): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(24): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(25,13): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(25,2): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(25): message : see declaration of 'Ejemplar'
+  Libro.cpp
+E:\Cprojects\Biblioteca\Ejemplar.h(11,13): error C2065: 'Libro': undeclared identifier
+E:\Cprojects\Biblioteca\Ejemplar.h(11,2): error C2923: 'std::shared_ptr': 'Libro' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Ejemplar.h(11): message : see declaration of 'Libro'
+E:\Cprojects\Biblioteca\Ejemplar.h(15,11): error C2061: syntax error: identifier 'Libro'
+  main.cpp
+  MainMenuPresenter.cpp
+E:\Cprojects\Biblioteca\Libro.h(16,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(16): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(23,35): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(23,24): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(23): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(24): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(25,13): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(25,2): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(25): message : see declaration of 'Ejemplar'
+  Prestamo.cpp
+E:\Cprojects\Biblioteca\Libro.h(16,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(16): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(23,35): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(23,24): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(23): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(24): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(25,13): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(25,2): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(25): message : see declaration of 'Ejemplar'
+  Socio.cpp
+E:\Cprojects\Biblioteca\Libro.h(16,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(16): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(23,35): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(23,24): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(23): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(24): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(25,13): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(25,2): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(25): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Socio.cpp(27,56): error C2664: 'void std::list<std::shared_ptr<Ejemplar>,std::allocator<std::shared_ptr<Ejemplar>>>::push_back(_Ty &&)': cannot convert argument 1 from 'std::shared_ptr' to '_Ty &&'
+          with
+          [
+              _Ty=std::shared_ptr<Ejemplar>
+          ]
+E:\Cprojects\Biblioteca\Socio.cpp(27,56): message : Reason: cannot convert from 'std::shared_ptr' to '_Ty'
+          with
+          [
+              _Ty=std::shared_ptr<Ejemplar>
+          ]
+E:\Cprojects\Biblioteca\Socio.cpp(27,54): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\list(972,10): message : see declaration of 'std::list<std::shared_ptr<Ejemplar>,std::allocator<std::shared_ptr<Ejemplar>>>::push_back'
+E:\Cprojects\Biblioteca\Socio.cpp(36,34): error C2664: 'void Libro::DevolverEjemplar(std::shared_ptr)': cannot convert argument 1 from 'std::shared_ptr<Ejemplar>' to 'std::shared_ptr'
+E:\Cprojects\Biblioteca\Socio.cpp(36,26): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+E:\Cprojects\Biblioteca\Libro.h(23,7): message : see declaration of 'Libro::DevolverEjemplar'
+  SocioVip.cpp
+E:\Cprojects\Biblioteca\Libro.h(16,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(16): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(16,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(23,35): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(23,24): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(23): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,18): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(24): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\Libro.h(24,7): error C3203: 'shared_ptr': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+E:\Cprojects\Biblioteca\Libro.h(25,13): error C2065: 'Ejemplar': undeclared identifier
+E:\Cprojects\Biblioteca\Libro.h(25,2): error C2923: 'std::shared_ptr': 'Ejemplar' is not a valid template type argument for parameter '_Ty'
+E:\Cprojects\Biblioteca\Libro.h(25): message : see declaration of 'Ejemplar'
+E:\Cprojects\Biblioteca\SocioVip.h(6,1): error C2504: 'Socio': base class undefined
+E:\Cprojects\Biblioteca\SocioVip.h(12,7): error C3668: 'SocioVip::PuedeRetirarLibros': method with override specifier 'override' did not override any base class methods
+E:\Cprojects\Biblioteca\SocioVip.cpp(5,54): error C2614: 'SocioVip': illegal member initialization: 'Socio' is not a base or member
+E:\Cprojects\Biblioteca\SocioVip.cpp(11,16): error C2039: 'ejemplares': is not a member of 'SocioVip'
+E:\Cprojects\Biblioteca\SocioVip.h(5): message : see declaration of 'SocioVip'
+  Generating Code...
